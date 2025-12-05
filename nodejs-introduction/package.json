@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "nodejs learning repository",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node helloworld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waqas-Khan-CodeCanvas/Nodejs-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waqas-Khan-CodeCanvas/Nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/Waqas-Khan-CodeCanvas/Nodejs-learning#readme"
+}

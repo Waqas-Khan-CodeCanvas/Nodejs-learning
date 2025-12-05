@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-modules",
+  "version": "1.0.0",
+  "description": "second day of nodejs learning",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "waqas khan",
+  "license": "ISC"
+}
